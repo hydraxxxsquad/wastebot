@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 Hi {}, my name is {}! 
-I am an Anime themed group management bot with some fun extras [;)](https://telegra.ph/file/0c81caf684cf2e44dbe4c.jpg)
+I am a group management bot with some fun extras [;)](https://telegra.ph/file/0c81caf684cf2e44dbe4c.jpg)
 
 You can find the list of available commands with /help.
 
